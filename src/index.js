@@ -6,7 +6,7 @@ import * as serviceWorker from './serviceWorker';
 
 //STORE  => Globalized State
 
-//Action
+//Action Increment
 
 ReactDOM.render(<App />, document.getElementById('root'));
 
